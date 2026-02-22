@@ -1,0 +1,9 @@
+C:\Users\isaac\source\repos\State_Library\bin\Debug\State_Library.dll
+C:\Users\isaac\source\repos\State_Library\bin\Debug\State_Library.pdb
+C:\Users\isaac\source\repos\State_Library\bin\Debug\System.Data.SQLite.dll
+C:\Users\isaac\source\repos\State_Library\bin\Debug\System.Data.SQLite.xml
+C:\Users\isaac\source\repos\State_Library\obj\Debug\State_Library.csproj.AssemblyReference.cache
+C:\Users\isaac\source\repos\State_Library\obj\Debug\State_Library.csproj.CoreCompileInputs.cache
+C:\Users\isaac\source\repos\State_Library\obj\Debug\State_Li.23DD34D8.Up2Date
+C:\Users\isaac\source\repos\State_Library\obj\Debug\State_Library.dll
+C:\Users\isaac\source\repos\State_Library\obj\Debug\State_Library.pdb
