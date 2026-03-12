@@ -1,0 +1,19 @@
+Heinrich Gottberg Code Review of Isaac B Lab 3
+
+Is the code generally readable and well-documented?
+
+  Yes, the code is very condensed into the three separate pages and work efficiently.
+
+Did you find any software defects?
+
+  No defects, everything worked for me. The search and sort is well done.
+
+What was one way that their solution differed from yours?
+
+  His UI was very interesting. I like how we all find different ways to do it.
+
+Do you have any other constructive comments for the author?
+
+  I would make sure that the windows open in the center every time.
+  The forms also aren't using the same text size or scale, minor detail.
+  Overall a great project!
