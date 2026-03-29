@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\isaac\\source\\repos\\I-Billow-Lab-3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C003FE33-2103-4170-BBDF-26F9994D02B3}|I-Billow-Lab-3.csproj|C:\\Users\\isaac\\source\\repos\\I-Billow-Lab-3\\stateeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C003FE33-2103-4170-BBDF-26F9994D02B3}|I-Billow-Lab-3.csproj|solutionrelative:stateeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C003FE33-2103-4170-BBDF-26F9994D02B3}|I-Billow-Lab-3.csproj|C:\\Users\\isaac\\source\\repos\\I-Billow-Lab-3\\searchsortfilterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C003FE33-2103-4170-BBDF-26F9994D02B3}|I-Billow-Lab-3.csproj|solutionrelative:searchsortfilterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C003FE33-2103-4170-BBDF-26F9994D02B3}|I-Billow-Lab-3.csproj|c:\\users\\isaac\\source\\repos\\i-billow-lab-3\\stateeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C003FE33-2103-4170-BBDF-26F9994D02B3}|I-Billow-Lab-3.csproj|solutionrelative:stateeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C003FE33-2103-4170-BBDF-26F9994D02B3}|I-Billow-Lab-3.csproj|C:\\Users\\isaac\\source\\repos\\I-Billow-Lab-3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C003FE33-2103-4170-BBDF-26F9994D02B3}|I-Billow-Lab-3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C003FE33-2103-4170-BBDF-26F9994D02B3}|I-Billow-Lab-3.csproj|C:\\Users\\isaac\\source\\repos\\I-Billow-Lab-3\\statedetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C003FE33-2103-4170-BBDF-26F9994D02B3}|I-Billow-Lab-3.csproj|solutionrelative:statedetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C003FE33-2103-4170-BBDF-26F9994D02B3}|I-Billow-Lab-3.csproj|C:\\Users\\isaac\\source\\repos\\I-Billow-Lab-3\\searchsortfilterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C003FE33-2103-4170-BBDF-26F9994D02B3}|I-Billow-Lab-3.csproj|solutionrelative:searchsortfilterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C003FE33-2103-4170-BBDF-26F9994D02B3}|I-Billow-Lab-3.csproj|c:\\users\\isaac\\source\\repos\\i-billow-lab-3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C003FE33-2103-4170-BBDF-26F9994D02B3}|I-Billow-Lab-3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9834092-FA89-4F3C-A2CA-CD4224389792}|..\\State_Library\\State_Library.csproj|c:\\users\\isaac\\source\\repos\\state_library\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9834092-FA89-4F3C-A2CA-CD4224389792}|..\\State_Library\\State_Library.csproj|c:\\users\\isaac\\source\\repos\\state_library\\staterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StateEditForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\isaac\\source\\repos\\I-Billow-Lab-3\\StateEditForm.cs",
+              "RelativeDocumentMoniker": "StateEditForm.cs",
+              "ToolTip": "C:\\Users\\isaac\\source\\repos\\I-Billow-Lab-3\\StateEditForm.cs [Design]",
+              "RelativeToolTip": "StateEditForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T03:38:45.499Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\source\\repos\\I-Billow-Lab-3\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\isaac\\source\\repos\\I-Billow-Lab-3\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T15:04:56.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchSortFilterForm.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\source\\repos\\I-Billow-Lab-3\\SearchSortFilterForm.cs",
+              "RelativeDocumentMoniker": "SearchSortFilterForm.cs",
+              "ToolTip": "C:\\Users\\isaac\\source\\repos\\I-Billow-Lab-3\\SearchSortFilterForm.cs",
+              "RelativeToolTip": "SearchSortFilterForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T20:51:12.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SearchSortFilterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\isaac\\source\\repos\\I-Billow-Lab-3\\SearchSortFilterForm.cs",
+              "RelativeDocumentMoniker": "SearchSortFilterForm.cs",
+              "ToolTip": "C:\\Users\\isaac\\source\\repos\\I-Billow-Lab-3\\SearchSortFilterForm.cs [Design]",
+              "RelativeToolTip": "SearchSortFilterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T20:50:59.473Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StateEditForm.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\source\\repos\\I-Billow-Lab-3\\StateEditForm.cs",
+              "RelativeDocumentMoniker": "StateEditForm.cs",
+              "ToolTip": "C:\\Users\\isaac\\source\\repos\\I-Billow-Lab-3\\StateEditForm.cs",
+              "RelativeToolTip": "StateEditForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T21:11:37.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StateDetailsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\isaac\\source\\repos\\I-Billow-Lab-3\\StateDetailsForm.cs",
+              "RelativeDocumentMoniker": "StateDetailsForm.cs",
+              "ToolTip": "C:\\Users\\isaac\\source\\repos\\I-Billow-Lab-3\\StateDetailsForm.cs [Design]",
+              "RelativeToolTip": "StateDetailsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T15:03:30.127Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\isaac\\source\\repos\\I-Billow-Lab-3\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\isaac\\source\\repos\\I-Billow-Lab-3\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T03:38:07.638Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\source\\repos\\State_Library\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\State_Library\\Class1.cs",
+              "ToolTip": "C:\\Users\\isaac\\source\\repos\\State_Library\\Class1.cs",
+              "RelativeToolTip": "..\\State_Library\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T03:29:56.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StateRepository.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\source\\repos\\State_Library\\StateRepository.cs",
+              "RelativeDocumentMoniker": "..\\State_Library\\StateRepository.cs",
+              "ToolTip": "C:\\Users\\isaac\\source\\repos\\State_Library\\StateRepository.cs",
+              "RelativeToolTip": "..\\State_Library\\StateRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T03:31:08.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
