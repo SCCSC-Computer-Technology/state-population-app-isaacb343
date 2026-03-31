@@ -1,0 +1,3 @@
+Hey Isaac, 
+
+I just reviewed your state population lab. I liked how you set everything up, off the buttons. I wish there was more color though. I especially like how you did a separate edit page rather than the defaulted one from the DataGrid. Somethings I would change is that on View state details, some of your labels and boxes are organized together; some labels will be centered, and others would be align to the left. Also, I notice that your data grid column are stretch to fit, so there is some gray area in the background. And I saw the title of your form was left as form1. But overall, you did a great job!
