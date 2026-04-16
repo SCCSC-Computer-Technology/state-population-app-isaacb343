@@ -1,0 +1,11 @@
+Q1 - Is the code generally readable and well-documented?
+A1 – Yes, the code is readable and pretty easy to follow. It is not super heavy on comments, but there are enough to understand what is going on, especially in the repository class. I could tell what each part was doing without too much trouble. I think a little more documentation would help, but overall it was not confusing.
+
+Q2 – Did you find any software defects?
+A2- I did, there seems to be an issue with the forms not loading properly in design view. It looks like something is off with how the forms are set up, maybe with the base class or how they are being initialized. That would definitely cause problems when trying to work on the UI. Other than that, the database code itself looked fine for the most part.
+
+Q3 - What was one way that their solution differed from yours?
+A3 – Their solution differed from mine by using SQLite instead of what I used, so that was one big difference. They also used a StateInfo class with a list to store largest cities, which I thought was a good way to organize that data. Mine was a little more simple and not set up the same way.
+
+Q4 – Do you have any other constructive comments for the author?
+A4 – I would say focus on fixing the form issue first because that will make everything else easier to work on. After that, maybe add a little more commenting and just double check that everything is set up correctly with the forms. Other than that, the code looked pretty solid overall.
