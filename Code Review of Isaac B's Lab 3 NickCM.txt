@@ -1,0 +1,29 @@
+**********Code Review of Isaac B's Lab 3***********
+*                 by NickCM                       *
+*                                                 *
+* Is the code generally readable and              *
+* well-documented?                                *
+*                                                 *
+* Code is readable and organized.                 *
+* Comments explain what the code is doing.        *
+*                                                 *
+*                                                 *
+* Did you find any software defects?              *
+*                                                 *
+* The program itself is good, but the github      *
+* repo has two solutions, so thats a bit          *
+* confusing.                                      *
+*                                                 *
+* What was one way that their solution            *
+* differed from yours?                            *
+*                                                 *
+* Isaac used a database file to load the data.    *
+* I used an excel sheet. The database seems to    *
+* integrate well with the LINQ used for filtering.*
+*                                                 *
+*                                                 *
+* Do you have any other constructive              *
+* comments for the author?                        *
+*                                                 *
+* The project outside the folder is incorrect.    *
+***************************************************
