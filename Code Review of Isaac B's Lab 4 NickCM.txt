@@ -1,0 +1,28 @@
+**********Code Review of Isaac B's Lab 4***********
+*                 by NickCM                       *
+*                                                 *
+* Is the code generally readable and              *
+* well-documented?                                *
+*                                                 *
+* Code is the same as lab 3, so still clean and   *
+* organized with a few comments                   *
+*                                                 *
+* Did you find any software defects?              *
+*                                                 *
+* The program itself is good, but the github      *
+* repo has two solutions, so thats a bit          *
+* confusing.                                      *
+*                                                 *
+* What was one way that their solution            *
+* differed from yours?                            *
+*                                                 *
+* Isaac used a database file so his class library *
+* database manager class is used for connecting   *
+* the db. My equivalent class is used for loading *
+* data from a csv file.                           *
+*                                                 *
+* Do you have any other constructive              *
+* comments for the author?                        *
+*                                                 *
+* None.                                           *
+***************************************************
